@@ -1,0 +1,51 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+
+.title{
+    text-align: center;
+    color: rgb(144, 147, 148);
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.home_nav{
+    background-color: rgb(227, 231, 232);
+    padding: 10px;
+}
+
+.home_nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+
+.home_nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.home_nav ul li :hover{
+    text-decoration: none;
+    color: rgb(109, 106, 106);
+}
+
+.error{
+    font-size: 6rem;
+}
+.error404{
+    font-size: 3rem;
+}
+
+.animal{
+    text-align: center;
+}
+
+img{
+    width: 15rem;
+    height: 15rem;
+}
